@@ -1,3 +1,4 @@
+;autor:sayseven
 section .data
     tit      db  10, '-----------------',10, '| Calculadora |',10, '| Calculadora |',10 ,0
     ltit     equ $ - tit
